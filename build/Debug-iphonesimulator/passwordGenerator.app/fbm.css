@@ -1,0 +1,103 @@
+.Normal_1 {
+    color: #000000;
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', 'serif';
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15pt;
+    margin-bottom: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0pt;
+    text-transform: none;
+}
+.Free_Form {
+    color: #000000;
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', 'serif';
+    font-size: 10pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 11pt;
+    margin-bottom: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0pt;
+    text-transform: none;
+}
+.Body_Text_3_Char {
+    color: #000000;
+    font-size: 8pt;
+    line-height: 9pt;
+    opacity: 1.00;
+}
+.Normal, .layout_style_1, .layout_style_2, .layout_style_3, .layout_style_4, .layout_style_5, .layout_style_6, .layout_style_7, .layout_style_8, .layout_style_9, .layout_style_10 {
+    width: 432pt;
+}
+.layout_style_1 {
+    width: 432pt;
+}
+.layout_style_2 {
+    width: 432pt;
+}
+.layout_style_3 {
+    width: 432pt;
+}
+.layout_style_4 {
+    width: 432pt;
+}
+.layout_style_5 {
+    width: 432pt;
+}
+.layout_style_6 {
+    width: 432pt;
+}
+.layout_style_7 {
+    width: 432pt;
+}
+.layout_style_8 {
+    width: 432pt;
+}
+.layout_style_9 {
+    width: 432pt;
+}
+.layout_style_10 {
+    width: 432pt;
+}
+.SmallCaps {
+    color: #000000;
+    font-variant: small-caps;
+    line-height: 15pt;
+    opacity: 1.00;
+    text-transform: none;
+}
+.Table {
+    background: transparent;
+    border-collapse: collapse;
+}
+.table_cell_style_default {
+    background: transparent;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.searchtext {
+}

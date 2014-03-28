@@ -1,0 +1,310 @@
+TpasswordGenerator
+v7
+r0
+t311381079.874483
+cCheck dependencies
+cProcessInfoPlistFile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/Info.plist passwordGenerator-Info.plist
+cCompileXIB /Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib
+cCompileXIB /Users/rick/Documents/xcode/passwordGenerator/MainView.xib
+cCompileXIB /Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib
+cProcessPCH /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch.gch passwordGenerator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/main.o /Users/rick/Documents/xcode/passwordGenerator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGeneratorAppDelegate.o /Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/MainViewController.o /Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/FlipsideViewController.o /Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator normal i386
+cGenerateDSYMFile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app.dSYM /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator
+cTouch /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.h
+c000000004CDF138B000000000000023D
+t1289687947
+s573
+i<UIKit/UIKit.h>
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m
+c000000004CDF138B0000000000000462
+t1289687947
+s1122
+i"FlipsideViewController.h"
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.h
+c000000004CDF138B0000000000000140
+t1289687947
+s320
+i"FlipsideViewController.h"
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m
+c000000004CDF138B00000000000005DF
+t1289687947
+s1503
+i"MainViewController.h"
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.h
+c000000004CDF138B00000000000001FE
+t1289687947
+s510
+i<UIKit/UIKit.h>
+
+N/Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m
+c000000004CDF138B0000000000000AC5
+t1289687947
+s2757
+i"passwordGeneratorAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib
+c000000004CDF138B0000000000004C68
+t1289687947
+s19560
+
+N/Users/rick/Documents/xcode/passwordGenerator/MainView.xib
+c000000004CDF138B0000000000004656
+t1289687947
+s18006
+
+N/Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib
+c000000004CDF138B00000000000050C0
+t1289687947
+s20672
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app
+t1289688279
+s272
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app.dSYM
+t1289688279
+s102
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/FlipsideView.nib
+t1289688277
+s2077
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/Info.plist
+t1289688277
+s637
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/MainView.nib
+t1289688277
+s2345
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/MainWindow.nib
+t1289688278
+s1719
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/PkgInfo
+t1289688277
+s8
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator
+t1289688279
+s19508
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/FlipsideViewController.o
+t1289688279
+s37804
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/MainViewController.o
+t1289688279
+s37464
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/main.o
+t1289688279
+s6316
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGenerator.LinkFileList
+c000000004CDF14D5000000000000028C
+t1289688277
+s652
+
+N/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGeneratorAppDelegate.o
+t1289688279
+s48364
+
+N/Users/rick/Documents/xcode/passwordGenerator/main.m
+c000000004CDF138C0000000000000175
+t1289687948
+s373
+i<UIKit/UIKit.h>
+
+N/Users/rick/Documents/xcode/passwordGenerator/passwordGenerator_Prefix.pch
+c000000004CDF138C0000000000000154
+t1289687948
+s340
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch.gch
+t1289688279
+s15211536
+
+NpasswordGenerator-Info.plist
+c000000004CDF138B000000000000038D
+t1289687947
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311381076#311381077#0(0"0(0#1#0"8622689664#0"0#
+
+CCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/FlipsideViewController.o /Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311381079.708517
+e311381079.815397
+r1
+xCompileC
+xbuild/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m311381079#311381079#0(0"0(0#0#78"/Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m8619482336#2235"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-generated-files.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-own-target-headers.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-all-target-headers.hmap -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-project-headers.hmap -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -I/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/include -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources/i386 -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources -include /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch -c /Users/rick/Documents/xcode/passwordGenerator/Classes/FlipsideViewController.m -o /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/MainViewController.o /Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311381079.673484
+e311381079.801717
+r1
+xCompileC
+xbuild/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/MainViewController.o
+x/Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m311381079#311381079#0(0"0(0#0#74"/Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m8619656032#2227"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-generated-files.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-own-target-headers.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-all-target-headers.hmap -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-project-headers.hmap -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -I/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/include -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources/i386 -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources -include /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch -c /Users/rick/Documents/xcode/passwordGenerator/Classes/MainViewController.m -o /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/main.o /Users/rick/Documents/xcode/passwordGenerator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311381079.587226
+e311381079.672898
+r1
+xCompileC
+xbuild/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/main.o
+x/Users/rick/Documents/xcode/passwordGenerator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/rick/Documents/xcode/passwordGenerator/main.m311381079#311381079#0(0"0(0#0#52"/Users/rick/Documents/xcode/passwordGenerator/main.m8620611456#2191"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-generated-files.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-own-target-headers.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-all-target-headers.hmap -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-project-headers.hmap -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -I/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/include -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources/i386 -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources -include /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch -c /Users/rick/Documents/xcode/passwordGenerator/main.m -o /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/main.o0#
+
+CCompileC build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGeneratorAppDelegate.o /Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311381079.588403
+e311381079.708401
+r1
+xCompileC
+xbuild/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGeneratorAppDelegate.o
+x/Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m311381079#311381079#0(0"0(0#0#84"/Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m8620272160#2247"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-generated-files.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-own-target-headers.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-all-target-headers.hmap -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-project-headers.hmap -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -I/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/include -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources/i386 -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources -include /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch -c /Users/rick/Documents/xcode/passwordGenerator/Classes/passwordGeneratorAppDelegate.m -o /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGeneratorAppDelegate.o0#
+
+CCompileXIB /Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib
+s311381077.034777
+e311381077.623501
+r1
+xCompileXIB
+x/Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib311381077#311381077#0(0"0(0#0#62"/Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib8620056960#605"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/FlipsideView.nib /Users/rick/Documents/xcode/passwordGenerator/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rick/Documents/xcode/passwordGenerator/MainView.xib
+s311381077.035513
+e311381077.727704
+r1
+xCompileXIB
+x/Users/rick/Documents/xcode/passwordGenerator/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib311381077#311381077#0(0"0(0#0#58"/Users/rick/Documents/xcode/passwordGenerator/MainView.xib8619862688#597"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/MainView.nib /Users/rick/Documents/xcode/passwordGenerator/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib
+s311381077.623596
+e311381078.059575
+r1
+xCompileXIB
+x/Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311381077#311381078#0(0"0(0#0#60"/Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib8617836544#601"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/MainWindow.nib /Users/rick/Documents/xcode/passwordGenerator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app.dSYM /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator
+s311381079.849684
+e311381079.870629
+r1
+xGenerateDSYMFile
+x/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app.dSYM
+x/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/passwordGenerator.app.dSYM build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator311381079#311381079#0(0"0(0#0#113"/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator8614040576#434"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator -o /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app.dSYM0#
+
+CLd /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator normal i386
+s311381079.815496
+e311381079.849579
+r1
+xLd
+x/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator
+xnormal
+xi386
+lSLF07#2@118"Link /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator311381079#311381079#0(0"0(0#0#0"8617114688#985"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -filelist /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/Objects-normal/i386/passwordGenerator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/passwordGenerator0#
+
+CProcessInfoPlistFile /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/Info.plist passwordGenerator-Info.plist
+s311381077.029505
+e311381077.034685
+r1
+xProcessInfoPlistFile
+x/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/Info.plist
+xpasswordGenerator-Info.plist
+lSLF07#2@36"Process passwordGenerator-Info.plist311381077#311381077#0(0"0(0#0#74"/Users/rick/Documents/xcode/passwordGenerator/passwordGenerator-Info.plist8620615168#530"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility passwordGenerator-Info.plist -genpkginfo /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app/Info.plist0#
+
+CProcessPCH /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch.gch passwordGenerator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311381078.059700
+e311381079.587063
+r1
+xProcessPCH
+x/var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch.gch
+xpasswordGenerator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile passwordGenerator_Prefix.pch311381078#311381079#0(0"0(0#0#74"/Users/rick/Documents/xcode/passwordGenerator/passwordGenerator_Prefix.pch8614556960#2066"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-generated-files.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-own-target-headers.hmap -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-all-target-headers.hmap -iquote /Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/passwordGenerator-project-headers.hmap -F/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator -I/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/include -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources/i386 -I/Users/rick/Documents/xcode/passwordGenerator/build/passwordGenerator.build/Debug-iphonesimulator/passwordGenerator.build/DerivedSources -c /Users/rick/Documents/xcode/passwordGenerator/passwordGenerator_Prefix.pch -o /var/folders/M3/M3nZaK3KHVeuPLG67-GJg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/passwordGenerator_Prefix-bfxjumssjokwumednpicpvadkfws/passwordGenerator_Prefix.pch.gch0#
+
+CTouch /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app
+s311381079.870723
+e311381079.874416
+r1
+xTouch
+x/Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app
+lSLF07#2@101"Touch /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app311381079#311381079#0(0"0(0#0#0"8613823520#302"    cd /Users/rick/Documents/xcode/passwordGenerator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rick/Documents/xcode/passwordGenerator/build/Debug-iphonesimulator/passwordGenerator.app0#
+
