@@ -1,7 +1,7 @@
 Simply-Password
 ===============
 
-iPhone app - password generator
+iPhone app - password generator <a href="https://geo.itunes.apple.com/us/app/simply-password/id407881122?mt=8">Simply Password App Store</a>
 
 
 #Description
